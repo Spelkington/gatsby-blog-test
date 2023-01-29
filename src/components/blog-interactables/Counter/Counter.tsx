@@ -21,8 +21,6 @@ class Counter extends React.Component {
     }
 
     render() {
-
-
         return (
         <div>
             Current count: {this.state.count}
